@@ -3,6 +3,7 @@
 <table>
   <tr>
     <td align="center" width="150px"><a href="https://github.com/BeclsAutomation/NGSPrepCustomerPortalUI" target="_blank"><img src="img/vision.png" width="100px;" alt=""/><br /><sub><b>Vision</b></sub></a></td>
+    <td align="center" width="150px"><a href="https://github.com/BeclsAutomation/NGSPrepCustomerPortalUI" target="_blank"><img src="" width="100px;" height="150px" alt=""/><br /><sub><b>IQAP</b></sub></a></td>
   </tr>
 </table>
 
