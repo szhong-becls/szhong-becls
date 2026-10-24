@@ -16,5 +16,6 @@
     <td align="center" width="150px"><a href="https://github.com/BeclsUser/szhong-nationalday" target="_blank"><img src="img/beclogo.jpg" width="100px;" alt=""/><br /><sub><b>szhong-nationalday</b></sub></a></td>
     <td align="center" width="150px"><a href="https://github.com/BeclsUser/szhong-doc-template" target="_blank"><img src="img/szhong-doc-template.png" width="100px;" alt=""/><br /><sub><b>szhong-doc-template</b></sub></a></td>
     <td align="center" width="150px"><a href="https://github.com/BeclsUser/szhong-becls-auth-ts" target="_blank"><img src="img/szhong-becls-auth-ts.png" width="100px;" alt=""/><br /><sub><b>szhong-becls-auth-ts</b></sub></a></td>
+    <td align="center" width="150px"><a href="https://github.com/BeclsFlow/panda" target="_blank"><img src="img/panda-logo.png" width="100px;" alt=""/><br /><sub><b>panda</b></sub></a></td>
   </tr>
 </table>
