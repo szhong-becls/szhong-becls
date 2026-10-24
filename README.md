@@ -4,7 +4,7 @@
   <tr>
     <td align="center" width="150px"><a href="https://github.com/BeclsAutomation/NGSPrepCustomerPortalUI" target="_blank"><img src="img/vision.jpg" width="100px;" alt=""/><br /><sub><b>Vision</b></sub></a></td>
     <td align="center" width="150px"><a href="https://github.com/BeclsFlow/eIQAP-UI" target="_blank"><img src="img/beclogo.jpg" width="100px;" alt=""/><br /><sub><b>IQAP</b></sub></a></td>
-    <td align="center" width="150px"><a href="https://github.com/BeclsFlow/FlowIntegrationPlatform" target="_blank"><img src="img/beclogo.jpg" width="100px;" alt=""/><br /><sub><b>Flow Ecosystem</b></sub></a></td>
+    <td align="center" width="150px"><a href="https://github.com/BeclsFlow/FlowIntegrationPlatform" target="_blank"><img src="img/fip.png" width="100px;" alt=""/><br /><sub><b>Voyager</b></sub></a></td>
   </tr>
 </table>
 
